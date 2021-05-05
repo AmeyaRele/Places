@@ -9,8 +9,6 @@ In the /backend directory, run:
 
 ### `npm install`
 
-And
-
 ### `npm i -g nodemon`
 
 Now go to project directory and run
